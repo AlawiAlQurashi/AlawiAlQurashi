@@ -1,11 +1,52 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
-### Hi there, I'm alawi alqurshi- ‹
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif1" width="20px">
+## Hello, I'm [SUMAN !](https://fb.com/suman333mondal) 👋 🚀 from India.
 
-## Developer & Cyber Expert!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OnlineHacking&label=Views&color=blue&style=plastic" alt="OnlineHacking" /> </p>
 
-- ðŸŒ± Iâ€™m currently learning everything ðŸ¤£
-- âš¡: More Open Source Projects.
-- âš¡ Fun fact: What I expect, it is the opposite.
+<a href="https://twitter.com/suman333mondal">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/suman333mondal">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/OnlineHacking">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Onlinehacking">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/suman333mondal/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/onlinehacking/">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/OnlineHacking2/">
+  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
+
+
+
+- 🔭 I’m currently working on [Cyber Ethical Hacking](https://t.me/Onlinehacking)
+- 🌱 I’m currently learning more about Hacking, Web Design, Online Earn, Mod Hacking App
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Onlinehacking2).
+- 📫 Reach me at **info@onlinehacking.in**
+- 💬 Ask me about Hacking or any tech related stuff.
+- 📫 How to reach me: [Twitter - @suman333mondal](https://twitter.com/suman333mondal) , [Telegram - @OnlineHacking](https://telegram.dog/OnlineHacking)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+
+[![Twitter: suman333mondal](https://img.shields.io/twitter/follow/suman333mondal?style=social)](https://twitter.com/suman333mondal)
+[![Linkedin: imthepk](https://img.shields.io/badge/-suman333mondal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman333mondal/)](https://www.linkedin.com/in/suman333mondal/)
+[![GitHub OnlineHacking](https://img.shields.io/github/followers/OnlineHacking?label=follow&style=social)](https://github.com/OnlineHacking)
+[![website](https://img.shields.io/badge/OnlineHacking-onlinehacking.in-2648ff?style=flat-square&logo=google-chrome)](https://www.onlinehacking.org/)
+
+
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Languages and Tools:**  
 
@@ -69,57 +110,59 @@
 <br/>
 <kbd>
    <kbd>Front-end</kbd>
-   
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Apps</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Terminal Scripts</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
+  <br/>
+  <br/>
 
-### Connect with me:
-
-[<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="palahsu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="palahsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="palahsu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<br />
-<br />
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=palahsu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=palahsu&langs_count=8&theme=blue-green">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OnlineHacking&show_icons=true&theme=gotham" alt="OnlineHacking github stats" />
 
-## :sparkling_heart: Support the project
-
-I try to reply to everyone needing help using these projects or any other projects. Obviously. 
-You can use any tools for free and for any development or making projects just contact me.
-
-## For Contact
-
-[<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-
-Thanks! :heart:
-
-</details>
-
-[website]: https://palashgamertechnique.blogspot.com
-[Instagram]: https://Instagram.com/uxxki
-[gmail]: https://alawialqurshi@gmail.com
-[youtube]: https://www.youtube.com/channel/AW_CODE
-[linkedin]: https://linkedin.com/in/
-[telegram]: https://t.me/ALAWE1
-
-# Modified by @palahsu
-
-For any kind of help, support, payment, suggetion and request ask me on Telegram:
-
-<a href="https://t.me/AWCODE3"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-red.svg?logo=telegram"></a>
-
-Or Instagram <a href="https://www.Instagram.com/aduri.knox01/"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-red.svg?logo=Instagram"></a>
-
-## Follow on:
-<p align="left">
-<a href="https://github.com/alawialqurshi"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p><p align="left">
-<a href="https://www.Instagram.com/aduri.knox01/"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-red.svg?logo=Instagram"></a>
-</p><p align="left">
-<a href="https://t.me/ALAWE1"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
-</p><p align="left"> 
- 
+<div align="center">

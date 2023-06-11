@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif1" width="20px">
-## Hello, I'm [SUMAN !](https://fb.com/suman333mondal) 👋 🚀 from India.
+## Hello, I'm [ALAWE ALQURSHE !](https://t.me/ALAWE1) 👋 🚀 from India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OnlineHacking&label=Views&color=blue&style=plastic" alt="OnlineHacking" /> </p>
 
@@ -9,19 +9,19 @@
 <a href="https://linkedin.com/in/suman333mondal">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/OnlineHacking">
+<a href="https://github.com/alawialqurshi">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/Onlinehacking">
+<a href="https://t.me/ALAWE1">
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/suman333mondal/">
+<a href="https://instagram.com/uxxki/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/onlinehacking/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/OnlineHacking2/">
+<a href="https://www.youtube.com/AW_CODE/">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -30,9 +30,9 @@
 
 
 
-- 🔭 I’m currently working on [Cyber Ethical Hacking](https://t.me/Onlinehacking)
+- 🔭 I’m currently working on [Cyber Ethical Hacking](https://t.me/AWCODE3)
 - 🌱 I’m currently learning more about Hacking, Web Design, Online Earn, Mod Hacking App
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Onlinehacking2).
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/AW_CODE).
 - 📫 Reach me at **info@onlinehacking.in**
 - 💬 Ask me about Hacking or any tech related stuff.
 - 📫 How to reach me: [Twitter - @suman333mondal](https://twitter.com/suman333mondal) , [Telegram - @OnlineHacking](https://telegram.dog/OnlineHacking)

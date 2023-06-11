@@ -1,5 +1,5 @@
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
-## Hello, I'm [ALAWE ALQURSHE !](https://t.me/ALAWE1) 👋 🚀 from India.
+## Hello, I'm [alawi ALQURSHE !](https://t.me/ALAWE1) 👋 🚀 from yemen.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OnlineHacking&label=Views&color=blue&style=plastic" alt="OnlineHacking" /> </p>
 

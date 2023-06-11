@@ -35,7 +35,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/AW_CODE).
 - 📫 Reach me at **info@onlinehacking.in**
 - 💬 Ask me about Hacking or any tech related stuff.
-- 📫 How to reach me: [Twitter - @suman333mondal](https://twitter.com/suman333mondal) , [Telegram - @OnlineHacking](https://telegram.dog/OnlineHacking)
+- 📫 How to reach me: [Twitter - @suman333mondal](https://twitter.com/suman333mondal) , [Telegram - @AWCODE3](https://telegram.dog/AWCODE3)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 

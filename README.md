@@ -1,4 +1,6 @@
-### Hi there, I'm Palash Ahmed - alawi alqurshi‹
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
+
+### Hi there, I'm alawi alqurshi- ‹
 
 ## Developer & Cyber Expert!
 
@@ -10,15 +12,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube-red.svg" />][youtube]
 
-[<img align="left" alt="palahsu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="palahsu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail-red.svg" />][gmail]
 
-[<img align="left" alt="palahsu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="palahsu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Instagram-red.svg" />][twitter]
 
 [<img align="left" alt="palahsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="palahsu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="palahsu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram-blue.svg" />][telegram]
 
 <br />
 
@@ -44,7 +46,7 @@ Thanks! :heart:
 
 [website]: https://palashgamertechnique.blogspot.com
 
-[twitter]: https://twitter.com/palahsu
+[Instagram]: https://Instagram.com/uxxki
 
 [gmail]: https://alawialqurshi@gmail.com
 
@@ -52,9 +54,9 @@ Thanks! :heart:
 
 [linkedin]: https://linkedin.com/in/
 
-[telegram]: https://t.me/uxxki
+[telegram]: https://t.me/ALAWE1
 
-
+# Modified by @palahsu
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
@@ -74,8 +76,9 @@ Or Instagram <a href="https://www.Instagram.com/aduri.knox01/"><img src="https:/
 
 </p><p align="left">
 
-<a href="https://t.me/ALAWE1"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-red.svg?logo=telegram"></a>
+<a href="https://t.me/ALAWE1"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 
 </p><p align="left"> 
 
  
+

@@ -18,7 +18,7 @@
 <a href="https://instagram.com/uxxki/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/onlinehacking/">
+<a href="https://www.facebook.com/##">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/AW_CODE/">
@@ -33,16 +33,16 @@
 - 🔭 I’m currently working on [Cyber Ethical Hacking](https://t.me/AWCODE3)
 - 🌱 I’m currently learning more about Hacking, Web Design, Online Earn, Mod Hacking App
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/AW_CODE).
-- 📫 Reach me at **info@onlinehacking.in**
+- 📫 Reach me at **alawialqurshi@gmail.com**
 - 💬 Ask me about Hacking or any tech related stuff.
-- 📫 How to reach me: [Twitter - @suman333mondal](https://twitter.com/suman333mondal) , [Telegram - @AWCODE3](https://telegram.dog/AWCODE3)
+- 📫 How to reach me: [Twitter - @##](https://twitter.com/###) , [Telegram - @AWCODE3](https://telegram.dog/AWCODE3)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: suman333mondal](https://img.shields.io/twitter/follow/suman333mondal?style=social)](https://twitter.com/suman333mondal)
+[![Twitter: suman333mondal](https://img.shields.io/twitter/follow/##?style=social)](https://twitter.com/##)
 [![Linkedin: imthepk](https://img.shields.io/badge/-suman333mondal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman333mondal/)](https://www.linkedin.com/in/suman333mondal/)
-[![GitHub OnlineHacking](https://img.shields.io/github/followers/OnlineHacking?label=follow&style=social)](https://github.com/OnlineHacking)
-[![website](https://img.shields.io/badge/OnlineHacking-onlinehacking.in-2648ff?style=flat-square&logo=google-chrome)](https://www.onlinehacking.org/)
+[![GitHub OnlineHacking](https://img.shields.io/github/followers/OnlineHacking?label=follow&style=social)](https://github.com/alawialqurshi)
+[![website](https://img.shields.io/badge/OnlineHacking-onlinehacking.in-2648ff?style=flat-square&logo=google-chrome)](https://www.alawialqurshi.org/)
 
 
 

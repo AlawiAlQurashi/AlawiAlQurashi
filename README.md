@@ -1,14 +1,11 @@
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
 ## Hello, I'm [alawi ALQURSHE !](https://t.me/ALAWE1) 👋 🚀 from yemen.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OnlineHacking&label=Views&color=blue&style=plastic" alt="OnlineHacking" /> </p>
 
-<a href="https://twitter.com/suman333mondal">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<a href="https://twitter.com/##">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alawi-alqurshi-89a75927a">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="alawi-alqurshi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ye.linkedin.com/in/alawi-alqurshi?trk=profile-badge">alawi alqurshi</a></div>
 <a href="https://github.com/alawialqurshi">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>

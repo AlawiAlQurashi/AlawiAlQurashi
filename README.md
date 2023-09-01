@@ -40,7 +40,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: ALAWEALQURSHE](https://img.shields.io/twitter/follow/##?style=social)](https://twitter.com/##)
-[![Linkedin: imthepk](https://img.shields.io/badge/-alawi-alqurshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman333mondal/)](https://www.linkedin.com/in/suman333mondal/)
+https://www.linkedin.com/in/suman333mondal<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="alawi-alqurshi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ye.linkedin.com/in/alawi-alqurshi?trk=profile-badge">alawi alqurshi</a></div>
 [![GitHub AlawiAlQurashi](https://img.shields.io/github/followers/AlawiAlQurashi?label=follow&style=social)](https://github.com/alawialqurshi)
 [![website](https://img.shields.io/badge/AlawiAlQurashi-2648ff?style=flat-square&logo=google-chrome)](https://www.alawialqurshi.org/)
 

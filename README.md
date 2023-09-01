@@ -18,10 +18,10 @@
 <a href="https://instagram.com/uxxki/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/##">
+<a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/AW_CODE/">
+<a href="https://www.youtube.com/A_W_C/">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -59,10 +59,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<a href="https://github.com/OnlineHacking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlineHacking&theme=light&hide_langs_below=1" />
+<a href="https://github.com/AlawiAlQurashi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlawiAlQurashi&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/OnlineHacking">
+<a href="https://github.com/AlawiAlQurashi">
  
  ## ❗ Languages ❗
 </p>

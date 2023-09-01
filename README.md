@@ -30,12 +30,12 @@
 
 
 
-- 🔭 I’m currently working on [Cyber Ethical Hacking](https://t.me/AWCODE3)
+- 🔭 I’m currently working on [Cyber Ethical Hacking](https://t.me/A_W_C)
 - 🌱 I’m currently learning more about Hacking, Web Design, Online Earn, Mod Hacking App
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/AW_CODE).
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/A_W_C).
 - 📫 Reach me at **alawialqurshi@gmail.com**
 - 💬 Ask me about Hacking or any tech related stuff.
-- 📫 How to reach me: [Twitter - @##](https://twitter.com/###) , [Telegram - @AWCODE3](https://telegram.dog/AWCODE3)
+- 📫 How to reach me: [Telegram - 𝐀𝐋𝐀𝐖𝐄 𝐀𝐋-𝐐𝐔𝐑𝐀𝐒𝐇𝐄](https://t.me/ALAWE1) , [Telegram - 𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/AWCODE3)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 

@@ -2,10 +2,13 @@
 ## Hello, I'm [alawi ALQURSHE !](https://t.me/ALAWE1) 👋 🚀 from yemen.
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <a href="https://twitter.com/##">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="alawi-alqurshi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ye.linkedin.com/in/alawi-alqurshi?trk=profile-badge">alawi alqurshi</a></div>
+</a>
+<a href="https://www.linkedin.com/in/alawi-alqurshi-89a75927a">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://github.com/alawialqurshi">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>

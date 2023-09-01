@@ -39,10 +39,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: suman333mondal](https://img.shields.io/twitter/follow/##?style=social)](https://twitter.com/##)
-[![Linkedin: imthepk](https://img.shields.io/badge/-suman333mondal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman333mondal/)](https://www.linkedin.com/in/suman333mondal/)
-[![GitHub OnlineHacking](https://img.shields.io/github/followers/OnlineHacking?label=follow&style=social)](https://github.com/alawialqurshi)
-[![website](https://img.shields.io/badge/OnlineHacking-onlinehacking.in-2648ff?style=flat-square&logo=google-chrome)](https://www.alawialqurshi.org/)
+[![Twitter: ALAWEALQURSHE](https://img.shields.io/twitter/follow/##?style=social)](https://twitter.com/##)
+[![Linkedin: imthepk](https://img.shields.io/badge/-alawi-alqurshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suman333mondal/)](https://www.linkedin.com/in/suman333mondal/)
+[![GitHub AlawiAlQurashi](https://img.shields.io/github/followers/AlawiAlQurashi?label=follow&style=social)](https://github.com/alawialqurshi)
+[![website](https://img.shields.io/badge/AlawiAlQurashi-2648ff?style=flat-square&logo=google-chrome)](https://www.alawialqurshi.org/)
 
 
 
